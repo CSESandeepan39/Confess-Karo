@@ -14,10 +14,10 @@ Here are some Details of the app.
 The Signup 1 screen is when user wants to create an account for the app. It consists of various parts with header including the name of social media app with a back button which leads user back to first page. The screen consists of two inputs fields namely email and password without which user cannot proceed. If fields are empty user gets an error text. Also user cannot enter invalid email or password as email and password are validated without which user cannot proceed. 
 
 <img src="Images/1.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="Images/2.jpg" height="400px" width="200px" style="float:right">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/2.jpg" height="400px" width="200px" style="float:right">
    
    1.SignUp Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Signup Page
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Signup Page
    
    
    Email verification screen is redirected after signup 1 screen which confirms if the email is correct or not. A verification mail is sent to the user’s email which is to be verified by the user without which user can proceed. If the email is not verified, it gives an error stating email not verified. The screen consists of some lines asking user to verify email with two buttons namely proceed and goBack buttons. After proceed a check is run checking if user’s account is verified or not. If the user’s account is verified, user is redirected to Signup 2 screen else an error message is highlighted. There is a go back button which redirects user back to signup 1 page.
