@@ -13,8 +13,8 @@ Here are some Details of the app.
 
 The Signup 1 screen is when user wants to create an account for the app. It consists of various parts with header including the name of social media app with a back button which leads user back to first page. The screen consists of two inputs fields namely email and password without which user cannot proceed. If fields are empty user gets an error text. Also user cannot enter invalid email or password as email and password are validated without which user cannot proceed. 
 
-1.<img src="Images/1.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.<img src="Images/2.jpg" height="400px" width="200px" style="float:right">
+<img src="Images/1.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="Images/2.jpg" height="400px" width="200px" style="float:right">
    
    1.SignUp Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Signup Page
@@ -22,18 +22,18 @@ The Signup 1 screen is when user wants to create an account for the app. It cons
    
    Email verification screen is redirected after signup 1 screen which confirms if the email is correct or not. A verification mail is sent to the user’s email which is to be verified by the user without which user can proceed. If the email is not verified, it gives an error stating email not verified. The screen consists of some lines asking user to verify email with two buttons namely proceed and goBack buttons. After proceed a check is run checking if user’s account is verified or not. If the user’s account is verified, user is redirected to Signup 2 screen else an error message is highlighted. There is a go back button which redirects user back to signup 1 page.
    
-   3.<img src="Images/3.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.<img src="Images/4.jpg" height="400px" width="200px" style="float:right">
+   <img src="Images/3.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/4.jpg" height="400px" width="200px" style="float:right">
    
  3.Email-Verification Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.Email-Verification Page 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.Email-Verification Page 
    
    Signup 2 is the second step which is required by a user to sign up completely. Even if user logs in with a verified account but has not completed signup 2, will be redirected to signup 2. Signup 2 consists of 2 inputs field asking for user’s name and date of birth. Name and date of birth are validated so that user is acknowledged if there is any error. Also there is a set of radio button asking user about his/her gender. The app lets user to select roles to choose which he/she plays in their life. Roles are compulsory and user should choose at least one to proceed. Roles are displayed according to the gender the user chooses. For example if user chooses male as his gender, the roles will be father, brother, friend, son, etc. if user chooses female, then roles, will be mother, sister, daughter, etc. There is variety of roles and user has to check the checkboxes present below each image of the role. After selecting the role user should click submit details and proceed further using the app. After submitting, user’s details are saved securely in the data base. These roles are used to confess or comment their opinions.
    
    Login screen is redirected when we click login button at the index page. Login page consists of two inputs fields namely email and password fields. Wrong email results in error text. Also password and email fields should not be empty. Login only works for already authenticated and verified users. So if user clicks login button with wrong password and email, error message is being displayed. If user’s email and password are correct, but signup 2 is not completed then user is redirected to signup2 page and if signup 2 is completed then user is directed to the home page of the app. There is an option if user don’t have an account so that he/she can create one by clicking on it.
    
-5.<img src="Images/5.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.<img src="Images/6.jpg" height="400px" width="200px" style="float:right">
+<img src="Images/5.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/6.jpg" height="400px" width="200px" style="float:right">
    
 5.Signup-2 Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.Login Page
@@ -44,8 +44,8 @@ The Signup 1 screen is when user wants to create an account for the app. It cons
 This Navigation bar can be accessed through out the application except some pages making it easier for user to interact with and moving from one place to another easily as shown in the figure.
 
    
-   7.<img src="Images/7.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.<img src="Images/8.jpg" height="400px" width="200px" style="float:right">
+   <img src="Images/7.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/8.jpg" height="400px" width="200px" style="float:right">
    
    7.Home Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.Navigation Bar 
@@ -55,16 +55,16 @@ This Navigation bar can be accessed through out the application except some page
    
    On the Home Page of the website after logging in two buttons namely Write A Confession and Write A Story are there after accessing those user can wrote his/her confession and as well as his/her inspirational story.
    
-   9.<img src="Images/9.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.<img src="Images/10.jpg" height="400px" width="200px" style="float:right">
+   <img src="Images/9.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/10.jpg" height="400px" width="200px" style="float:right">
    
    9.Pagination feature &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.Write A Story Page
    
    The user can interact to the confessions posted by the others by clicking on the tags on the Categorized Confessions Tags page as shown in the figure below. There are multiple tags categorized into Male and Female with individual personalized tags on which user can click and will be redirected to the confessions which include these tags for example by clicking on the Boyfriend tag all the confessions which used the tag Boyfriend will be listed on the redirected page where user can interact like on the homepage which includes likes comments views just like shown at the home page and ordered on the basis of popularity 
    
-   11.<img src="Images/11.jpg" height="400px" width="200px" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.<img src="Images/12.jpg" height="400px" width="200px" style="float:right">
+   <img src="Images/11.jpg" height="400px" width="200px" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/12.jpg" height="400px" width="200px" style="float:right">
    
    11.Write A Confession Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp; 12.Filter Confessions Page
@@ -75,8 +75,8 @@ This Navigation bar can be accessed through out the application except some page
 For each particular notification message an icon is there so that user can differentiate if it is a notification for like or a notification for the comment
 
    
-   13.<img src="Images/13.jpg" height="400px" width="200px" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.<img src="Images/14.jpg" height="400px" width="200px" style="float:right">
+   <img src="Images/13.jpg" height="400px" width="200px" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/14.jpg" height="400px" width="200px" style="float:right">
    
    
    13.Confession Display&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -86,8 +86,8 @@ For each particular notification message an icon is there so that user can diffe
    
    User can access the Contact Us option from the navigation bar which helps users to reach us in no time. This page includes queries that users have or issues that are faced by the users while accessing the website, they can reach out to us through this a token is raised for each particular user which is saved in the database with the user Id there are three input box one for the name other for the email which should be same as the session email address and the last one is the contact number which help us reach to the user easily. A text area is also there for the detailed explanation of the problem which is followed by the Submit button after which user is redirected to Home page and the query is saved in the database.
    
-   15.<img src="Images/15.jpg" height="400px" width="200px" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16.<img src="Images/16.jpg" height="400px" width="200px" style="float:right">
+   <img src="Images/15.jpg" height="400px" width="200px" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Images/16.jpg" height="400px" width="200px" style="float:right">
    
    15.Intro Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.Contact-Us Page
@@ -96,6 +96,6 @@ For each particular notification message an icon is there so that user can diffe
    
    About is redirected when about option is selected from the index page in navigation panel. About Screen displays a brief introduction about the app. It consists of lots of images and quotes. The first part of about page consists of a get started button which on click redirects to signup 1 screen. The second part of about consists of how the app should be used. The third part displays about what roles we can choose in the app. The last part has a quote and an image stating about stories.
    
-17.<img src="Images/17.jpg" height="400px" width="200px" > 
+<img src="Images/17.jpg" height="400px" width="200px" > 
    
    17.About-Confess-Karo Page
