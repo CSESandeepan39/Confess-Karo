@@ -11,8 +11,8 @@ The app also has feature of reporting any post. If a post is been reported sever
 
 Here are some Images of the app.
 
-<img src="Images/1.jpg" height="400px" width="200px" style="float:left">
-   <img src="Images/2.jpg" height="400px" width="200px" style="float:right">
+<img src="Images/1.jpg" height="400px" width="200px" style="float:left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs<img src="Images/2.jpg" height="400px" width="200px" style="float:right">
    <img src="Images/3.jpg" height="400px" width="200px" >
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
